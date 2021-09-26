@@ -13,6 +13,6 @@ The stock analysis worked very well for a few of the stocks, but if it was expan
 
 This code helped develop a simple volume report for multiple stocks on the stock market over a couple years. When working with the original code, the developers decided to refactor the code to help it run faster. This is great because it updates the codes and typically uses less lines, making the code more easily understandable. During the process of refactoring, however, it is easy to lose your place and if you leave the code in the middle of refactoring, one is likely to forget where the changes were made. This makes refactoring code very tedious and time consuming. 
 
-The original code was easy enough to understand. 
+The original code was easy enough to understand. It also ran quickly for the number of stocks it was analyzing. There is no need to refactor the code if you are using a small amount of stocks for the analysis. The new refactored code runs faster and can easily be scaled to process more data. 
 
 

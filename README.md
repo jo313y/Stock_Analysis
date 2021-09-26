@@ -15,6 +15,9 @@ The refactored code ran at the following times for each year:
 2017: 0.6914063 Seconds
 2018: 0.6640625 Seconds
 
+![2017](/image/VBA_Challenge_2017.png)
+![2018](/image/VBA_Challenge_2018.png)
+
 # Summary
 
 This code helped develop a simple volume report for multiple stocks on the stock market over a couple years. When working with the original code, the developers decided to refactor the code to help it run faster. This is great because it updates the codes and typically uses less lines, making the code more easily understandable. During the process of refactoring, however, it is easy to lose your place and if you leave the code in the middle of refactoring, one is likely to forget where the changes were made. This makes refactoring code very tedious and time consuming. 

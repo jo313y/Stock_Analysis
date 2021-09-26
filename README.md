@@ -15,8 +15,8 @@ The refactored code ran at the following times for each year:
 2017: 0.6914063 Seconds
 2018: 0.6640625 Seconds
 
-![2017](VBA_Challenge_2017.png) https://github.com/jo313y/Stock_Analysis/blob/main/Stock-Analysis/Resources/VBA_Challenge_2017.png
-![2018](VBA_Challenge_2018.png) https://github.com/jo313y/Stock_Analysis/blob/main/Stock-Analysis/Resources/VBA_Challenge_2018.png
+https://github.com/jo313y/Stock_Analysis/blob/main/Stock-Analysis/Resources/VBA_Challenge_2017.png
+https://github.com/jo313y/Stock_Analysis/blob/main/Stock-Analysis/Resources/VBA_Challenge_2018.png
 
 # Summary
 

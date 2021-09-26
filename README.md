@@ -3,8 +3,8 @@ The purpose of this analysis was for a client so they can analyze their stock da
 
 ## Results
 The original code ran at the following times for each year:
-2017: 0.6484375 Seconds
-2018: 0.71875 Seconds
+- 2017: 0.6484375 Seconds
+- 2018: 0.71875 Seconds
 
 
 # Challenge Overview
@@ -12,8 +12,8 @@ The stock analysis worked very well for a few of the stocks, but if it was expan
 
 ## Challenge Results
 The refactored code ran at the following times for each year:
-2017: 0.6914063 Seconds
-2018: 0.6640625 Seconds
+- 2017: 0.6914063 Seconds
+- 2018: 0.6640625 Seconds
 
 https://github.com/jo313y/Stock_Analysis/blob/main/Stock-Analysis/Resources/VBA_Challenge_2017.png
 https://github.com/jo313y/Stock_Analysis/blob/main/Stock-Analysis/Resources/VBA_Challenge_2018.png

@@ -2,12 +2,18 @@
 The purpose of this analysis was for a client so they can analyze their stock data set at the click of a button. At first, the client wanted to analyze a single stock in the set, but then decided to expand into multiple stocks over multiple years. 
 
 ## Results
+The original code ran at the following times for each year:
+2017: 0.6484375 Seconds
+2018: 0.71875 Seconds
+
 
 # Challenge Overview
 The stock analysis worked very well for a few of the stocks, but if it was expanded for the entire stock market, it might take a while to compute. The purpose of this challenge is to refactor the code so that it will run quicker.
 
 ## Challenge Results
-
+The refactored code ran at the following times for each year:
+2017: 0.6914063 Seconds
+2018: 0.6640625 Seconds
 
 # Summary
 
